@@ -1,0 +1,14 @@
+.card {
+    /* border: 1px solid var(--softer-color); */
+    box-shadow: 1px 1px 5px var(--softer-color);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    transition: 0.3s;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  body{
+background-color: rgb(145, 111, 177);
+
+  }
